@@ -1,0 +1,14 @@
+.addPostContainer {
+    display: inline-flex;
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+}
+
+.postForm {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}

@@ -1,0 +1,23 @@
+.avatarContainer {
+    width: 30%;
+    height: 100%;
+    background-color: red;
+}
+
+.userDetailsSection {
+    height: 100%;
+    padding: 10px;
+}
+
+.avatarSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+.usernameText {
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 5px;
+}
